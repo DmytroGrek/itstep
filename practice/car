@@ -1,0 +1,10 @@
+model_car = ('Opel', 'Bugatti', 'Bentley', 'Ferrari', 'Lamborghini', 'Maserati', 'Maybach', 'Porsche', 'Opel')
+user_model = input("Enter your model: ")
+user_model_change = input("Enter your model: ")
+model_car1 = list(model_car)
+for elem in model_car1:
+    if elem == user_model:
+        elem = user_model_change
+    model_car2 = tuple(model_car1)
+
+    print(model_car2)
