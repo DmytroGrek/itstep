@@ -1,0 +1,8 @@
+fruit = ('apple', 'apple', 'apricot', 'apple-banana')
+user = input('Введите фрукт: ').lower()
+counter = 0
+for i in fruit:
+    if user in i:
+        counter += 1
+
+print(counter)
