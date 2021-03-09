@@ -10,7 +10,7 @@ while True:
         break
     try:
         value = int(value)
-    except:
+    except ValueError:
         print('Please input digits or "e"')
         continue
 

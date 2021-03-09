@@ -9,7 +9,6 @@
 id_code = ['045', '047', '039', '123']
 numbers = ['0932328998', '0671831758', '0684655545', '0503221866']
 handbook = list(zip(id_code, numbers))
-print(handbook)
 
 while True:
     choose = input(
