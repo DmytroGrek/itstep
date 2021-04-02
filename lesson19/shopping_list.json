@@ -1,0 +1,19 @@
+[
+    {
+        "bread": 1.2,
+        "milk": 1.6,
+        "potato": 0.4,
+        "sunflower oil": 2,
+        "meat": 2.4,
+        "eggs": 0.4,
+        "fish": 2.4
+    },
+    {
+        "apple": 1.7,
+        "cucumber": 1.95
+    },
+    {
+        "pineapple": 3.2,
+        "melon": 4.6
+    }
+]
